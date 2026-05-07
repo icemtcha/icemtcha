@@ -8,7 +8,7 @@
 - PHP • Dart • Go • JavaScript
 
 ### Frameworks & Tools
-- Laravel • Flutter • Node.js • Figma
+- Laravel • Flutter • Docker
 
 ## 📫 Get in Touch
 - ✉️ Email: [mtchalattebl@gmail.com](mailto:mtchalattebl@gmail.com)
